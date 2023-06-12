@@ -27,7 +27,7 @@ Atualmente, estou desenvolvendo meu projeto de mestrado utilizando técnicas de 
 - Conhecer novos lugares🌍
 - Ler e desenhar📚🎨
 
-## Entre em contato: 
+## Contato: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniele-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/daniele-alcoforado-costa-55aa06205/)
 [![GitHub](https://img.shields.io/github/followers/Daniele?label=GitHub&style=social)](https://github.com/DanieleAlcoforado)
 [![Instagram](https://img.shields.io/badge/Instagram-%40danielealcoforado-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/danielealcoforado/)
