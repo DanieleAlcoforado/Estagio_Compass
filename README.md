@@ -39,7 +39,7 @@ Fique à vontade para entrar em contato comigo pelas redes sociais acima! Será 
 ## Seção 2 - Resumo Sprint 1: 
 
 ### Git e Github
-![Funcionamento do Git]((https://learnlinux.com.br/editor/files/git_CompT.jpg)
+![Funcionamento do Git](https://learnlinux.com.br/editor/files/git_CompT.jpg)
 
 #### O que é o Git?
 
