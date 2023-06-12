@@ -1,34 +1,39 @@
-# Seção 1: Apresentação
+# Hello, World!👋 Eu sou a Daniele!
 
-# Apresentação
+Olá! Meu nome é **Daniele Alcoforado**! Tenho 26 anos e moro em Parnaíba (PI). 
 
-Olá! 👋 Meu nome é Daniele Alcoforado Costa e tenho 26 anos. Atualmente, moro em Parnaíba-PI e estou empolgada em estagiar na área de Ciência de Dados nesta empresa incrível! 🌟
+Sou apaixonada por ciência e tecnologia e pelos impactos positivos que trazem para a sociedade.
+Atualmente, estou desenvolvendo meu projeto de mestrado utilizando técnicas de mineração de dados para descrever e analisar os dados públicos relacionadas aos problemas de saúde mental no Brasil 🧠💻 
 
-## Formação Acadêmica
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seuperfil-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/daniele-alcoforado-costa-55aa06205/)
+[![GitHub](https://img.shields.io/github/followers/seuperfil?label=GitHub&style=social)](https://github.com/DanieleAlcoforado)
+[![Instagram](https://img.shields.io/badge/Instagram-%40seuperfil-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/danielealcoforado/)
 
-- Curso de Tecnologia em Ciência de Dados da Uninter (2º semestre)
-- Mestrado em Ciências Biomédicas da Universidade Federal do Delta do Parnaíba (2º ano)
+## Formação Acadêmica 🎓
 
-## Experiência com Tecnologia
+- Graduação em Tecnologia em Ciência de Dados (Uninter | 2º semestre)
+- Mestrado em Ciências Biomédicas (UFDPar | 3º semestre)
+- Graduação em Biomedicina (UFPI | 2016 - 2021)
 
-No meu mestrado, estou envolvida em um projeto de pesquisa fascinante que utiliza mineração de dados para analisar informações públicas relacionadas à saúde mental no Brasil. 🧠💻 Isso me permitiu mergulhar no mundo dos dados e despertou meu interesse pela Ciência de Dados.
+## Estou aprendendo 🌱
 
-## Interesses
+- Big Data e Mineração de Dados
+- Machine Learning e Inteligência Artificial
+- Visualização de dados
+- Bioinformática
 
-- Mineração de dados e análise de dados em larga escala
-- Aprendizado de Máquina e Inteligência Artificial
-- Visualização de dados e storytelling
-- Aplicações de Ciência de Dados na área de saúde
+## Hobbies 🌟
 
-## Hobbies
+Além de me dedicar aos estudos, em meu tempo livre também gosto de me dedicar a outras atividades. Alguns dos meus hobbies incluem:
 
-Além da minha paixão por tecnologia e dados, também gosto de dedicar meu tempo livre a outras atividades. Alguns dos meus hobbies incluem:
+- Assistir filmes e séries de ficção científica, suspense e thriller psicológico🎬🍿
+- Conhecer novos lugares 
+- Ler e desenhar📚🎨
 
-- Praticar esportes ao ar livre, como corrida e ciclismo 🚴‍♀️
-- Ler livros sobre ciência e tecnologia 📚
-- Experimentar novas receitas na cozinha 🍳
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seuperfil-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/daniele-alcoforado-costa-55aa06205/)
+[![GitHub](https://img.shields.io/github/followers/seuperfil?label=GitHub&style=social)](https://github.com/DanieleAlcoforado)
+[![Instagram](https://img.shields.io/badge/Instagram-%40seuperfil-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/danielealcoforado/)
 
-Estou entusiasmada em contribuir para o sucesso deste projeto e aprender com a equipe talentosa aqui. Vamos transformar dados em insights incríveis! 🚀
+Fique à vontade para entrar em contato comigo pelas redes sociais acima! Será um prazer conectar e trocar conhecimentos com você. 😄✨
 
-Se você tiver alguma pergunta ou quiser discutir ideias, não hesite em entrar em contato comigo. Vamos trabalhar juntos para impulsionar a inovação com dados!
 
