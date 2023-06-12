@@ -5,6 +5,7 @@ Estou empolgada por ter essa oportunidade de estagiar na Compass e aprender com 
 
 Sou apaixonada por ciência e tecnologia e pelos impactos positivos que trazem para a sociedade.
 Atualmente, estou desenvolvendo meu projeto de mestrado utilizando técnicas de mineração de dados para descrever e analisar os dados públicos relacionadas aos problemas de saúde mental no Brasil 🧠💻 
+Meu interesse pela área de dados surgiu ainda durante a minha primeira graduação e só cresceu após o contato maior que tive com algumas experiências. Meu objetivo atualmente é crescer como cientista de dados e contribuir com novos insights para resolução de problemas por meio deles💡 
 
 ## Formação Acadêmica 🎓
 
@@ -27,10 +28,10 @@ Atualmente, estou desenvolvendo meu projeto de mestrado utilizando técnicas de 
 - Conhecer novos lugares🌍
 - Ler e desenhar📚🎨
 
-## Contato: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniele-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/daniele-alcoforado-costa-55aa06205/)
-[![GitHub](https://img.shields.io/github/followers/Daniele?label=GitHub&style=social)](https://github.com/DanieleAlcoforado)
-[![Instagram](https://img.shields.io/badge/Instagram-%40danielealcoforado-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/danielealcoforado/)
+## Redes sociais: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-alcoforado-costa-55aa06205/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanieleAlcoforado)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielealcoforado/)
 
 Fique à vontade para entrar em contato comigo pelas redes sociais acima! Será um prazer conectar e trocar conhecimentos com você. 😄✨
 
