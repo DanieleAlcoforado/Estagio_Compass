@@ -1,6 +1,7 @@
 # Hello, World!👋 Eu sou a Daniele!
 
-Olá! Meu nome é **Daniele Alcoforado**! Tenho 26 anos e moro em Parnaíba (PI). 
+lá! Meu nome é **Daniele Alcoforado**! Tenho 26 anos e moro em Parnaíba (PI).
+Estou empolgada por ter essa oportunidade de estagiar na Compass e aprender com a sua equipe. Espero também poder contribuir com os objetivos da empresa da melhor forma!
 
 Sou apaixonada por ciência e tecnologia e pelos impactos positivos que trazem para a sociedade.
 Atualmente, estou desenvolvendo meu projeto de mestrado utilizando técnicas de mineração de dados para descrever e analisar os dados públicos relacionadas aos problemas de saúde mental no Brasil 🧠💻 
@@ -24,7 +25,7 @@ Atualmente, estou desenvolvendo meu projeto de mestrado utilizando técnicas de 
 Além de me dedicar aos estudos, em meu tempo livre também gosto de me dedicar a outras atividades. Alguns dos meus hobbies incluem:
 
 - Assistir filmes e séries de ficção científica, suspense e thriller psicológico🎬🍿
-- Conhecer novos lugares 
+- Conhecer novos lugares🌍
 - Ler e desenhar📚🎨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniele-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/daniele-alcoforado-costa-55aa06205/)
