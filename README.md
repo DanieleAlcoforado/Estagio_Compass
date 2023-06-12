@@ -39,6 +39,8 @@ Fique à vontade para entrar em contato comigo pelas redes sociais acima! Será 
 ## Seção 2 - Resumo Sprint 1: 
 
 ### Git e Github
+
+Fluxo do controle de versão pelo Git:
 ![Funcionamento do Git](https://learnlinux.com.br/editor/files/git_CompT.jpg)
 
 #### O que é o Git?
@@ -50,20 +52,23 @@ O **GitHub** é um dos principais servidores utilizados atualmente para armazena
 
 #### Principais comandos do Git:
 
-1. `git init`: inicializa um repositório Git na máquina localmente.
-2. `git clone <URL do repositório>`: clona um repositório Git existente do servidor para o seu computador.
-3. `git add <nome do arquivo>`: adiciona um arquivo específico para o controle de versão.
-4. `git add .`: adiciona todos os arquivos a serem mapeados para o Git.
-5. `git commit -m "mensagem de commit"`: registra as alterações adicionadas com uma mensagem descritiva.
-6. `git push`: envia os commis para um repositório remoto.
-7. `git pull`: atualiza o repositório local com as alterações mais recentes do repositório remoto.
-8. `git rm <nome do arquivo>`: remove um arquivo específico do repositório.
-9. `git log`: apresenta o histórico de ações executadas no repositório. 
-10. `git branch`: lista as ramificações (branches) existentes no repositório.
-11. `git branch <nome da nova branch>: cria uma nova branch.
-12. `git checkout <nome da branch>`: alterna para uma ramificação específica.
-13. `git merge <nome da branch>`: combina as alterações de uma branch com outra.
-14. `git status`: mostra o status atual do repositório, incluindo arquivos modificados, adicionados ou excluídos.
+| Comando                                   | Descrição                                                            |
+|-------------------------------------------|----------------------------------------------------------------------|
+| `git init`                                | Inicializa um repositório Git localmente.                             |
+| `git clone <URL do repositório>`           | Clona um repositório Git existente para o seu computador.             |
+| `git add <nome do arquivo>`                | Adiciona um arquivo específico para o controle de versão.             |
+| `git add .`                               | Adiciona todos os arquivos modificados ao controle de versão.         |
+| `git commit -m "mensagem de commit"`       | Registra as alterações adicionadas com uma mensagem descritiva.       |
+| `git push`                                | Envia os commits para um repositório remoto.                          |
+| `git pull`                                | Atualiza o repositório local com as alterações mais recentes do remoto.|
+| `git rm <nome do arquivo>`                 | Remove um arquivo específico do repositório.                          |
+| `git log`                                 | Apresenta o histórico de ações executadas no repositório.             |
+| `git branch`                              | Lista as ramificações (branches) existentes no repositório.           |
+| `git branch <nome da nova branch>`         | Cria uma nova branch.                                                 |
+| `git checkout <nome da branch>`            | Alterna para uma ramificação específica.                              |
+| `git merge <nome da branch>`               | Combina as alterações de uma branch com outra.                        |
+| `git status`                              | Mostra o status atual do repositório, incluindo arquivos modificados. |
+
 
 Esses são apenas alguns dos comandos mais comuns utilizados no Git. Há muitos outros comandos que foram apresentados durante o cursos e outros recursos disponíveis para auxiliar no controle de versão.
 
@@ -91,6 +96,14 @@ Esses são apenas alguns dos comandos mais comuns utilizados no Git. Há muitos 
 | `chmod`   | Alterar permissões de acesso a arquivos      |
 | `sudo`    | Executar um comando com privilégios de superusuário |
 | `man`     | Exibir o manual de um comando               |
+
+#### Editores de texto
+
+##### Nano:
+O Nano é um editor de texto simples e amigável. Ele possui uma interface intuitiva e fácil de usar, com comandos exibidos na parte inferior da tela. Ele oferece recursos básicos de edição de texto, como copiar, colar, procurar, substituir e desfazer. É um editor leve e rápido, ideal para tarefas simples de edição de arquivos de configuração ou criação de pequenos scripts.
+
+#### Vim:
+O Vim oferece uma ampla gama de recursos, como realce de sintaxe, autocompletar, navegação eficiente, suporte a plugins e personalização extensiva por meio de arquivos de configuração. 
 
 
 
