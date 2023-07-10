@@ -82,11 +82,17 @@ with open(txt_1,'w') as arquivo_txt:
 ```python
 txt_2 = "C:\\Users\\Danie\\Documents\\Desafio ETL\\etapa-2.txt"
 
+soma_fatura = 0
+
+for linha in conteudo_actors[1:]:
+    fatura_total_ator = float(linha[1])
+    soma_fatura += fatura_total_ator
+    
+quant_atores = len(conteudo_actors[1:])
+media_fatura = round(soma_fatura / quant_atores,2)
+    
 with open(txt_2,'w') as arquivo_txt:
-    for linha in conteudo_actors[1:]:
-        media_faturamento = linha[3]
-        nome_ator = linha[0]
-        arquivo_txt.write(f'Ator/atriz: {nome_ator}. Média de faturamento bruto: {media_faturamento}.\n')
+    arquivo_txt.write(f'Média do faturamento bruto por ator: {media_fatura}')
 ```
 
 ### 3) Apresente o ator/atriz com a maior média de faturamento por filme.
