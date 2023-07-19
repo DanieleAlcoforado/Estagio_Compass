@@ -1,7 +1,7 @@
 ## Exercício 1
 
 ### Construindo a imagem
-```
+```dockerfile
 FROM python
 
 WORKDIR /app
@@ -22,8 +22,8 @@ Você deve dirigir um Honda City
 ```
 
 ## Exercício 2
-### Comando
-```
+### Comandos no Terminal
+```powershell
 CONTAINER ID   IMAGE             COMMAND               CREATED        STATUS                    PORTS     NAMES
 f8bdade13f8c   imagem_tarefa_1   "python carguru.py"   18 hours ago   Exited (0) 18 hours ago             magical_rubin
 PS C:\development\estagio_compass\Estagio_Compass\Sprint 4> docker logs f8bdade13f8c 

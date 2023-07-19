@@ -25,7 +25,7 @@ COPY script.py /app
 CMD [ "python","script.py"]
 ```
 ## Comandos no Terminal
-```
+```powershell
 PS C:\development\estagio_compass\Estagio_Compass\Sprint 4\docker_exercício_3> docker build -t mascarar-dados .
 PS C:\development\estagio_compass\Estagio_Compass\Sprint 4\docker_exercício_3> docker run -it mascarar-dados
 Digite uma string (ou "sair" para encerrar): estagio
