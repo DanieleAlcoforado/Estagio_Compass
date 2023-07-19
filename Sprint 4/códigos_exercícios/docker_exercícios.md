@@ -28,7 +28,6 @@ CONTAINER ID   IMAGE             COMMAND               CREATED        STATUS    
 f8bdade13f8c   imagem_tarefa_1   "python carguru.py"   18 hours ago   Exited (0) 18 hours ago             magical_rubin
 PS C:\development\estagio_compass\Estagio_Compass\Sprint 4> docker logs f8bdade13f8c 
 Você deve dirigir um Honda City
-```
 PS C:\development\estagio_compass\Estagio_Compass\Sprint 4> docker start f8b
 f8b
 PS C:\development\estagio_compass\Estagio_Compass\Sprint 4> docker logs f8b
