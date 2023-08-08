@@ -4,7 +4,7 @@
 Na primeira semana da Sprint 5 foram realizados os cursos da AWS de "Sales Accreditation", "Accreditation (Technical)" e iniciado o jogo "Cloud Quest".
 
 Nesse primeiro curso, foi possível aprender os conceitos iniciais sobre a AWS, seu valor comercial e instruções importantes para uma boa comunicação com os clientes.
-No curso "Technical", os principais aprendizados obtidos por esse curso foram relacionados às tecnologias essenciais da AWS e alguns exemplos de soluções para casos reais. 
+No curso "Technical", os principais aprendizados obtidos foram relacionados às tecnologias essenciais da AWS e alguns exemplos de soluções para casos reais. 
 ### Principais aprendizados:
 #### Conceitos iniciais:
 * A nuvem fornece diversos recursos de computação, como servidores, armazenamento, bancos de dados, redes e software, pela internet.
@@ -27,5 +27,27 @@ O framework se baseia em cinco pilares principais, cada um representando uma ár
 * Flexibilidade: Variedade de serviços que atendem a diferentes necessidades, desde startups até grandes corporações.
 
 ## Segunda Semana
+Na segunda semana da Sprint 5 foram realizados os cursos da AWS de "Economics Accreditation", "Exam Prep: AWS Certified Cloud Practitioner" e concluído o jogo "Cloud Quest".
+Alguns dos principais aprendizados com as aulas foram: modelo de responsabilidade compartilhada da AWS, práticas recomendadas de segurança, ferramentas para cálculo e demonstração da economia de custo proporcionada pela migração para a nuvem, entre outros.
+### Principais serviços abordados:
+* Computação:
+Amazon EC2 (Elastic Compute Cloud): funciona com instâncias virtuais para hospedagem de aplicativos e serviços.
+* Armazenamento:
+Amazon S3 (Simple Storage Service): armazenamento de objetos para arquivos e dados.
+Amazon EBS (Elastic Block Store): armazenamento de blocos para instâncias EC2.
+Amazon Glacier: armazenamento de arquivamento de longo prazo.
+* Banco de Dados:
+Amazon RDS (Relational Database Service): bancos de dados SQL gerenciados.
+Amazon DynamoDB: banco de dados NoSQL escalonável e de baixa latência.
+* Rede:
+Amazon VPC (Virtual Private Cloud): rede isolada e personalizável na nuvem.
+
+### Algumas das tarefas cumpridas no "Cloud Quest":
+
+
+
+
+
+
 
 
