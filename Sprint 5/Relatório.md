@@ -43,6 +43,12 @@ Amazon DynamoDB: banco de dados NoSQL escalonável e de baixa latência.
 Amazon VPC (Virtual Private Cloud): rede isolada e personalizável na nuvem.
 
 ### Algumas das tarefas cumpridas no "Cloud Quest":
+<img width="960" alt="conectando_database" src="https://github.com/DanieleAlcoforado/Estagio_Compass/assets/135548515/41cd75ef-fb5b-43b0-ba95-4c42bc31642b">
+<img width="1280" alt="dynamodb record" src="https://github.com/DanieleAlcoforado/Estagio_Compass/assets/135548515/30ad8c71-380f-4bb0-8357-23abe10ed042">
+<img width="1280" alt="IAM securitygroup" src="https://github.com/DanieleAlcoforado/Estagio_Compass/assets/135548515/758fa028-e771-4b91-ade5-0b7859cdb8d3">
+<img width="1280" alt="load balancer" src="https://github.com/DanieleAlcoforado/Estagio_Compass/assets/135548515/1005833a-5f52-4262-ae37-3657a932ea50">
+
+
 
 
 
