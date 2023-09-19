@@ -4,7 +4,6 @@ import boto3
 import requests
 import json
 
-# Instanciando o cliente S3 da AWS
 s3 = boto3.client('s3')   
 # Instanciando o bucket de destino dos arquivos no S3    
 bucket = 'data-lake-daniele'
@@ -72,22 +71,23 @@ def generate_and_upload_json(all_movies,bucket):
     os.makedirs(temp_folder, exist_ok=True)
     
     # dividindo a lista em partes de 100 registros cada
-    for i in range(0, len(all_movies),100):
-        sliced_movies = all_movies[i:i + 100]
+    for i in range(0, len(all_movies), 100):
+        if(i+100 > len(all_movies)):
+            sliced_movies = all_movies[i:]
+        else:
+            sliced_movies = all_movies[i:i + 100]
         
-    # gerando arquivos JSON para cada parte de 100 registros
-    for i, slice_data in enumerate(sliced_movies):
-        name_json = f"crime-1970-to-2023-{i + 1}.json" # definindo o nome do JSON
+        name_json = f"crime-1970-to-2023-{i/100 + 1}.json" # definindo o nome do JSON
         file_path = os.path.join(temp_folder, name_json)
         with open(file_path, 'w') as json_file:
-            json.dump(slice_data, json_file)
+            json.dump(sliced_movies, json_file)
 
         # especificando o caminho no S3
         s3_path = f'Raw/TMDB/JSON/{format_date()}/{name_json}'
         # enviando o arquivo JSON para o S3
         s3.upload_file(file_path, bucket, s3_path)
-
-    print(f'Arquivos enviados com sucesso para o S3.')
+    
+        print(f'Arquivos enviados com sucesso para o S3.')
 
 
 def lambda_handler(event, context):
