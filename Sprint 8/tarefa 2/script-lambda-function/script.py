@@ -89,8 +89,7 @@ def generate_and_upload_json(all_movies,bucket):
     
         print(f'Arquivos enviados com sucesso para o S3.')
 
-
-def lambda_handler(event, context):
+def lambda_handler(event,context):
     try:
         # executando a extração dos dados do TMDB
         tmdb_data = extract_tmdb_data()
