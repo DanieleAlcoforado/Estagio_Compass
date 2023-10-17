@@ -6,10 +6,7 @@ Para a análise de filmes do gênero crime, foram coletados dados por meio da AP
 
 Durante o processo, foram encontradas dificuldades com o reconhecimento do Schema dos arquivos JSON pelo AWS Glue. Para superar esse obstáculo, optei por concatenar os arquivos JSON e, em seguida, convertê-los para o formato CSV. Essa adaptação permitiu que os dados fossem usados com sucesso no ambiente do AWS Glue.
 
-COLOCAR FOTOS
 
-## Solução Flexível
+## Solução
 
 Para algumas transformações necessárias nos dados, houveram dificuldades para rodar no job, que não consegui contornar em tempo hábil. Por isso as demais modificações que restavam foram realizadas com uso do Pandas no Google Colaboratory.
-
-COLOCAR FOTOS DOS ERROS
