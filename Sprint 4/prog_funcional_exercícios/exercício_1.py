@@ -1,3 +1,6 @@
+# APRESENTE OS 5 MAIORES NÚMEROS PARES DO ARQUIVO "NUMBER.TXT", BEM COMO A SOMA DELES.
+
+# No arquivo "number.txt" em questão, cada número ocupa uma linha 
 def selecionar_maiores_pares(lista):
     # Convertendo cada elemento da lista para valor inteiro 
     lista_nova = map(int,lista)
